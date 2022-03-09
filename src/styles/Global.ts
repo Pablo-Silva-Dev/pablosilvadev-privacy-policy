@@ -7,6 +7,7 @@ body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
   background: #fff;
+  overflow-x: hidden;
 }
 
 a {
@@ -28,4 +29,5 @@ button{
   border: none;
   cursor: pointer;
 }
+
 `;
