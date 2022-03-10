@@ -58,8 +58,8 @@ export const Footer = styled.footer`
   justify-content: center;
   background-color: ${({ theme }) => theme.colors.primary};
   width: 100vw;
-  padding: 1rem;
-  min-height: 8vh;
+  padding: 2rem;
+  min-height: 12vh;
   font-size: ${({ theme }) => theme.sizes.medium};
   p {
     color: ${({ theme }) => theme.colors.secondary_light};
